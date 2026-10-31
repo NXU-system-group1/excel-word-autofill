@@ -1,0 +1,20 @@
+# 虚拟环境
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 临时产物
+.tmp/
+*.pending.xlsx
+~$*
+
+# 业务数据：含真实企业信息与报价，不进版本库
+项目文件/
+!项目文件/.gitkeep
+
+# 编辑器
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
