@@ -9,10 +9,6 @@ __pycache__/
 *.pending.xlsx
 ~$*
 
-# 业务数据：含真实企业信息与报价，不进版本库
-项目文件/
-!项目文件/.gitkeep
-
 # 编辑器
 .idea/
 .vscode/
